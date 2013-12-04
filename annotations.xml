@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Annotations start="0" num="1" total="1">
+  <Annotation about="*.rscb.org/*" score="1" timestamp="0x0004ec6f0a701782" href="CgwqLnJzY2Iub3JnLyoQgq_A0_CNuwI">
+    <Label name="_cse_wadxjqrcyas" />
+    <AdditionalData attribute="original_url" value="rscb.org" />
+  </Annotation>
+
+
+
+<Annotation about='www.ncbi.nlm.nih.gov/pubmed*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='www.ncbi.nlm.nih.gov/pmc*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='www.rcsb.org/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='genome.ucsc.edu/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='ensembl.org/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='snpedia.com/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='evs.gs.washington.edu/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='genome.jp/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='string-db.org/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='reactome.org/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='ingenuity.com/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='lovd.nl/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='genereviews.org/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='ghr.nlm.nih.gov/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='orpha.net/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='cancer.sanger.ac.uk/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='omim.org/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+<Annotation about='hgmd.org/*'><Label name="_cse_wadxjqrcyas" /></Annotation>
+
+
+
+
+</Annotations>
